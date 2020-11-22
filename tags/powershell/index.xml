@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PowerShell on Maybe Safe&#39;s Blog</title>
+    <link>https://lovetrap.github.io/tags/powershell/</link>
+    <description>Recent content in PowerShell on Maybe Safe&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2020 15:50:44 +0800</lastBuildDate>
+    
+	<atom:link href="https://lovetrap.github.io/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一些简单的PowerShell命令</title>
+      <link>https://lovetrap.github.io/post/powershell%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Mon, 23 Mar 2020 15:50:44 +0800</pubDate>
+      
+      <guid>https://lovetrap.github.io/post/powershell%E5%9F%BA%E7%A1%80/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

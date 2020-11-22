@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bypass on Maybe Safe&#39;s Blog</title>
+    <link>https://lovetrap.github.io/tags/bypass/</link>
+    <description>Recent content in Bypass on Maybe Safe&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2020 20:06:55 +0800</lastBuildDate>
+    
+	<atom:link href="https://lovetrap.github.io/tags/bypass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>将js隐藏在PNG中Bypass CSP</title>
+      <link>https://lovetrap.github.io/post/%E5%B0%86js%E9%9A%90%E8%97%8F%E5%9C%A8png%E4%B8%ADbypass-csp/</link>
+      <pubDate>Sun, 05 Apr 2020 20:06:55 +0800</pubDate>
+      
+      <guid>https://lovetrap.github.io/post/%E5%B0%86js%E9%9A%90%E8%97%8F%E5%9C%A8png%E4%B8%ADbypass-csp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
